@@ -1,4 +1,4 @@
-# Iris-Flower-predicton
+# Iris-Flower-prediction
 
 Agenda
 A (VERY) basic introduction to the Linear Regression Model.
